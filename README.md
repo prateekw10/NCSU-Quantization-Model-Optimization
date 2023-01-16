@@ -1,4 +1,4 @@
-# Quantization_NNI
+# Quantization Model Optimizaiton using NNI
 
 ### Requirements
 - python 3.10.4
@@ -7,7 +7,7 @@
 - nni
 - time
 
-### how to sunning the code
+### How to run the code
 
 - python vae.py
 
